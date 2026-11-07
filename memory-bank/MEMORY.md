@@ -1,7 +1,7 @@
 ---
 schema: "agent-memory/v1"
 project-id: "bd9ef8f1-f7a7-4dc9-9abb-9c6f9e11ccc0"
-router-updated: "2026-10-22T17:00:00Z"
+router-updated: "2026-11-07T09:26:19.489934+00:00"
 canonical-remote: "repo://github.com/robertelee78/agent-memory-v015-qualification"
 ---
 # Project memory
@@ -14,6 +14,8 @@ Router time describes this map, not every file's revision.
 | --- | --- | --- | --- | --- |
 | [projectbrief.md](<projectbrief.md>) | Orient a fresh session using project evidence | repository | active | When starting or resuming project work |
 | [topics/attempt-cap.md](<topics/attempt-cap.md>) | Reviewed fixture learning | repository | active | When comparing related concepts |
+| [topics/208e8261-299c-427f-9b6a-90d18318a103.md](<topics/208e8261-299c-427f-9b6a-90d18318a103.md>) | Independent thirty-second request deadline for the synthetic retry fixture | repository | active | When distinguishing elapsed request time from the three-attempt cap |
+| [history/events/15f03f35-4762-4ae8-9cf6-afde63ef715b.md](<history/events/15f03f35-4762-4ae8-9cf6-afde63ef715b.md>) | Admission provenance for the synthetic independent request deadline | repository | active | When reviewing the deadline evidence and admission history |
 
 ## Omitted contexts
 
