@@ -17,10 +17,11 @@ Router time describes this map, not every file's revision.
 | [topics/208e8261-299c-427f-9b6a-90d18318a103.md](<topics/208e8261-299c-427f-9b6a-90d18318a103.md>) | Independent thirty-second request deadline for the synthetic retry fixture | repository | active | When distinguishing elapsed request time from the three-attempt cap |
 | [history/events/15f03f35-4762-4ae8-9cf6-afde63ef715b.md](<history/events/15f03f35-4762-4ae8-9cf6-afde63ef715b.md>) | Admission provenance for the synthetic independent request deadline | repository | active | When reviewing the deadline evidence and admission history |
 
+| [activeContext.md](<activeContext.md>) | Synthetic source-preserving orientation | repository | active | When reviewing the synthetic recovery condition |
+
 ## Omitted contexts
 
 - `productContext.md`: No additional product context has been supplied
-- `activeContext.md`: No current session focus has been supplied
 - `systemPatterns.md`: No established patterns have been supplied
 - `techContext.md`: No verified setup information has been supplied
 - `progress.md`: No validated progress evidence has been supplied
