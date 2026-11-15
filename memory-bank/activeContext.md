@@ -1,0 +1,3 @@
+# Active context
+
+Under the synthetic review condition, preserve existing guidance and check the original source before acting.
