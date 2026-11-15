@@ -2,6 +2,7 @@
 schema: "agent-memory/v1"
 project-id: "2ec64421-c701-4d81-a8c2-b2b81793bf2c"
 router-updated: "2026-11-15T08:43:52.648391+00:00"
+canonical-remote: "repo://github.com/robertelee78/agent-memory-v015-qualification"
 ---
 # Project memory
 
